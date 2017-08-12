@@ -14,8 +14,8 @@ project.repositories:
 repository.mynewt-nrf52-adc-driver:
     type: github
     vers: 0-latest
-    user: davidgs
-    repo: mynewt-nrf52-adc-driver
+    user: jawwadshaukat
+    repo: nrf52-adc-driver
 ```
 
 Then add the packge to your projects pkg.yml
